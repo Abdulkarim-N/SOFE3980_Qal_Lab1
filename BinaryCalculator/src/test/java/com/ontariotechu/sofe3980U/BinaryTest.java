@@ -196,7 +196,7 @@ checks to see if the function works for binary values of different length revers
         assertTrue( and.getValue().equals("100"));
     }
     /*
-checks to see if the function works for binary values of different length reversed
+
 */
     @Test
     public void multi1()
